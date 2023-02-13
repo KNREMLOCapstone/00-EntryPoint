@@ -1,8 +1,6 @@
 # EntryPoint
-This Organization is created as a part of the TSAI EMLOV2 Capstone. project. 
+This Organization is created as a part of the TSAI EMLOV2 Capstone project. 
 
-<div class="description user_content enhanced"><p><img id="199388403" style="display: block; margin-left: auto; margin-right: auto;" src="https://canvas.instructure.com/courses/5120078/files/199388403/preview" alt="Capstone.gif" data-api-endpoint="https://canvas.instructure.com/api/v1/courses/5120078/files/199388403" data-api-returntype="File"></p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <h1 style="text-align: center;">Capstone Assignment</h1>
 <h3 style="text-align: center;">Create a complete end-to-end MLOps pipeline</h3>
