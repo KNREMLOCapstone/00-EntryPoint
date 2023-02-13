@@ -1,5 +1,4 @@
-# EntryPoint
-This Organization is created as a part of the TSAI EMLOV2 Capstone project. 
+This Github Organization is created as a part of the TSAI EMLOV2 Capstone project. 
 
 <p>&nbsp;</p>
 <h1 style="text-align: center;">Capstone Assignment</h1>
